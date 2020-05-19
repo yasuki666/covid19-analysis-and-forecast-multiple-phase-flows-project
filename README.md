@@ -17,6 +17,7 @@ https://github.com/CSSEGISandData/COVID-19
 - 欧洲
 - 亚洲
 - 现在哪个国家正在复苏？
+
 2.预测:
 - 通过sigmoid进行S型拟合预测
 - 基于prophet的机器学习预测
